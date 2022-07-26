@@ -7,7 +7,7 @@ This Repository is holding all of the code and queries for the Portfolio Project
 This poject was completed as part of Udacity Data Analyst Nanodegree. In this project, I have worked through to understand the results of an A/B test run by an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 
-# Medical No-show Appointments
+## Medical No-show Appointments
 **Tools and Libraries:** Python, numpy, pandas, matplotlib, seaborn
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
