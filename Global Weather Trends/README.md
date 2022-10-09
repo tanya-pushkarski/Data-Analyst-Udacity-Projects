@@ -4,4 +4,4 @@ This poject was completed as a part of Udacity Data Analyst Nanodegree. In the p
 
 Calculations and visualizations were made in Google Sheets, please check **"Global Weather Trends (Google Sheet).ods"** file.
 
-For steps and conclucion, please check **"Exploring Weather Trends Steps and Conclusion.pdf"** file.
+For steps and conclusion, please check **"Exploring Weather Trends Steps and Conclusion.pdf"** file.
